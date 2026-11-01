@@ -1,0 +1,4 @@
+interface:
+  display_name: "实时模拟器实验室"
+  short_description: "构建可交互三维模拟器，复用自由镜头、主体操作及逐帧视频导出"
+  default_prompt: "使用 $interactive-simulator 创建一个可交互的实时模拟器，参考已验证基线实现，并验证镜头、主体操作和自动录屏。"

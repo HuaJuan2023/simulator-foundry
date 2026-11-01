@@ -1,0 +1,165 @@
+{
+  "version": "1.0.0",
+  "files": [
+    {
+      "path": "quality/baseline.json",
+      "bytes": 1066,
+      "sha256": "3f246efc4ae17ae394e2d5284a719a0583dada2f11051a2816695ffd10c46841"
+    },
+    {
+      "path": "quality/cargo-new-waves.png",
+      "bytes": 549845,
+      "sha256": "21b29526db493940305f9a3da90fdce67b71f523c699bc36f012f3a512edfc1a"
+    },
+    {
+      "path": "quality/cargo-reference-update.png",
+      "bytes": 181051,
+      "sha256": "fb72178e3875dee8f1347bf0f88e05ded35e3be33093d0ae8c3c3dc0365fab0f"
+    },
+    {
+      "path": "starter/.gitignore",
+      "bytes": 38,
+      "sha256": "05cdf6bc6cb850bdb744edb1f6e848e62ae15299ed2559f3ca64bed19863caf3"
+    },
+    {
+      "path": "starter/启动实验室.cmd",
+      "bytes": 253,
+      "sha256": "2f468b1cecc13e3df823f71cca11abb4115d457f82700234412a6383f7c1baf9"
+    },
+    {
+      "path": "starter/index.html",
+      "bytes": 320,
+      "sha256": "853b35dc078e782a54c107659bdd2a900764dbfc24142b9d675c3986d0238c0a"
+    },
+    {
+      "path": "starter/LICENSE",
+      "bytes": 1068,
+      "sha256": "4d66e6a308f01fe9df63223193ac5315b9feb3c3ae109c8829f19ff939cc522a"
+    },
+    {
+      "path": "starter/LICENSES/mediabunny-MPL-2.0.txt",
+      "bytes": 16726,
+      "sha256": "3f3d9e0024b1921b067d6f7f88deb4a60cbe7a78e76c64e3f1d7fc3b779b9d04"
+    },
+    {
+      "path": "starter/LICENSES/three-MIT.txt",
+      "bytes": 1081,
+      "sha256": "bfe119ea4fd413f5f7ca3fcd63adb0c4a073ed39daa2fe7d3e6b769e21272601"
+    },
+    {
+      "path": "starter/LICENSES/vite-LICENSE.md",
+      "bytes": 101176,
+      "sha256": "a77a1c089806b39ad339535bdf3677f636c91d96693e8ad7b11fe733f650ea64"
+    },
+    {
+      "path": "starter/package-lock.json",
+      "bytes": 36995,
+      "sha256": "a41cd4d02cee3013fa98a8787657f71d0b4ab58970cd38343c56a254a4e57118"
+    },
+    {
+      "path": "starter/package.json",
+      "bytes": 391,
+      "sha256": "dc36620c679f2705c16f68847d1171b3cbd4469090f15021615cd886d859e8de"
+    },
+    {
+      "path": "starter/README.md",
+      "bytes": 2855,
+      "sha256": "85d8907da6a1edfdf05e7c0fb6f430c996eacb932d5a3b3ed29b272f3fb01420"
+    },
+    {
+      "path": "starter/src/demo-tour.js",
+      "bytes": 4642,
+      "sha256": "c8656e4ec2dbcbc371a9c17da42dc2c377f43f6d74c7c3c7fad27f7f5734e6e4"
+    },
+    {
+      "path": "starter/src/fixed-frames.js",
+      "bytes": 446,
+      "sha256": "ff82e1210f75d99983691e7e8d7a9d4b3d8e9da5262fef1ba7d4da036e482ac8"
+    },
+    {
+      "path": "starter/src/main.js",
+      "bytes": 23694,
+      "sha256": "9a5d5d2a9c28264083a3eb5fc6fab0ce4b19741bfb085d7101612814afd129f9"
+    },
+    {
+      "path": "starter/src/recorder.js",
+      "bytes": 8274,
+      "sha256": "028d419dc3e62eaf921d795d2775a24833f70b6ada882f221e42fa6255c0456d"
+    },
+    {
+      "path": "starter/src/recording-utils.js",
+      "bytes": 875,
+      "sha256": "7e14b2c2d457d6f685dd0fa0cadba434da9ba5a487d8dd624aa21b935572efc1"
+    },
+    {
+      "path": "starter/src/simulators/camera-composition.js",
+      "bytes": 456,
+      "sha256": "a1712501ee7cf7aac65db505c44624c3cf259d7299f2248b146e63ac22f2d959"
+    },
+    {
+      "path": "starter/src/simulators/cargo-ship.js",
+      "bytes": 8681,
+      "sha256": "d134f4b8c5317ff1401cbd7d2933da0fa674046271e841517b2ce12eddf7b692"
+    },
+    {
+      "path": "starter/src/simulators/celestial.js",
+      "bytes": 810,
+      "sha256": "d53bb79951b2f829f706def946ed51a8506cb1d8431d4af938ccf1fb6c9c8b06"
+    },
+    {
+      "path": "starter/src/simulators/merge-static.js",
+      "bytes": 1254,
+      "sha256": "16d13134f2cdc1d268476c9aa4241fbb601d8df2d0f77eb3e2d311224369571d"
+    },
+    {
+      "path": "starter/src/simulators/ocean.js",
+      "bytes": 35219,
+      "sha256": "21d56d4a4171664355fde943bf317e69fa030813edc8da5a31d04ff16f9bd23e"
+    },
+    {
+      "path": "starter/src/simulators/ripple-field.js",
+      "bytes": 4349,
+      "sha256": "8a2bb4ec9e92165a09597054f5d781fff9a9ffda678ea9e4dbfc4b07d4448f4b"
+    },
+    {
+      "path": "starter/src/simulators/wake-history.js",
+      "bytes": 1138,
+      "sha256": "5d0927c8e8a6684a682907ba2b01a281604f7c72976eced91e937e019009e754"
+    },
+    {
+      "path": "starter/src/simulators/wake.js",
+      "bytes": 6060,
+      "sha256": "4c5e10a5a01b2d2be24438b54ad68fa562738846308aa5ea62350827cf7699dd"
+    },
+    {
+      "path": "starter/src/style.css",
+      "bytes": 14046,
+      "sha256": "99bcf00f0c15cc5de97c6e99d9b72743ea5efdcb575ccedf704e57c62866b83d"
+    },
+    {
+      "path": "starter/tests/camera-composition.test.js",
+      "bytes": 745,
+      "sha256": "3664a6df06e8b9301e9a342cf1208b9399c53a689aa158e3fa4ede3cecdd3fb3"
+    },
+    {
+      "path": "starter/tests/fixed-frames.test.js",
+      "bytes": 1497,
+      "sha256": "c6b3a86a33de80fcdaa3fc9f8bd8f9de08d5c5d1aba684dd103f6de732ff3749"
+    },
+    {
+      "path": "starter/tests/recording.test.js",
+      "bytes": 2580,
+      "sha256": "98c23d1808e552c105df7b25a3dc7e384056ac34602c7c9b485b83786aedbf45"
+    },
+    {
+      "path": "starter/tests/simulation.test.js",
+      "bytes": 2055,
+      "sha256": "d3bd405d8e339adf9f08d0212244dddbf21baa2701af804f268ac21ad9f55a0f"
+    },
+    {
+      "path": "starter/THIRD_PARTY_NOTICES.md",
+      "bytes": 2133,
+      "sha256": "626ed04f322708830695fbdc4d52b73a86da2f742a61e40448b25125a9585338"
+    }
+  ]
+}

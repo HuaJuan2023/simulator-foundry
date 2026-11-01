@@ -1,0 +1,36 @@
+{
+  "version": "1.0.0",
+  "captured": "2026-11-01",
+  "implementation": "Independent procedural simulation; no original Fazley source bundled",
+  "routes": [
+    "/?scene=cargo",
+    "/?scene=ocean"
+  ],
+  "verified": {
+    "tests": 13,
+    "productionBuild": true,
+    "automaticExport": {
+      "videoCodec": "h264",
+      "audioCodec": "aac",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "videoFrames": 1350,
+      "videoSeconds": 45,
+      "audioSeconds": 45.013333,
+      "decodeErrors": 0,
+      "distinctFramesChecked": 90
+    },
+    "camera": [
+      "left-side view accepts drag without snapback",
+      "noon sun and vessel fit sky view",
+      "preset from sky returns to subject"
+    ]
+  },
+  "limitations": [
+    "Live rendering and manual capture are not guaranteed at 30fps.",
+    "Snapshot uses current procedural visual model, not validated fluid dynamics.",
+    "Recorded screenshots are visual examples, not deterministic pixel fixtures.",
+    "New scene types need their own model, controls and demonstration chapters."
+  ]
+}
